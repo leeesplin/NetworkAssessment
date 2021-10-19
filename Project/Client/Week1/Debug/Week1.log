@@ -1,0 +1,58 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Week1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Level.cpp
+f:\uni\year3\networking\project\client\week1\level.h(66): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\uni\year3\networking\project\client\week1\level.cpp(40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\uni\year3\networking\project\client\week1\level.cpp(41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\uni\year3\networking\project\client\week1\level.cpp(59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\uni\year3\networking\project\client\week1\level.cpp(60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\uni\year3\networking\project\client\week1\level.cpp(82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\uni\year3\networking\project\client\week1\level.cpp(83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\uni\year3\networking\project\client\week1\level.cpp(84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\uni\year3\networking\project\client\week1\level.cpp(85): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\uni\year3\networking\project\client\week1\level.cpp(103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+f:\uni\year3\networking\project\client\week1\level.cpp(191): warning C4018: '<': signed/unsigned mismatch
+f:\uni\year3\networking\project\client\week1\level.cpp(236): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+f:\uni\year3\networking\project\client\week1\level.cpp(263): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+f:\uni\year3\networking\project\client\week1\level.cpp(273): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+f:\uni\year3\networking\project\client\week1\level.cpp(809): warning C4018: '<': signed/unsigned mismatch
+  Week1.vcxproj -> F:\Uni\Year3\Networking\Project\Client\Debug\Client.exe
